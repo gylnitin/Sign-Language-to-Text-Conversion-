@@ -1,1 +1,1 @@
-# Sign-Language-to-Text-Conversion-
+# Sign-Language-to-Text-Conversion-Capstone-Project
